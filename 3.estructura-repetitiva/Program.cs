@@ -2,8 +2,8 @@
 // Calcular la media y la desviación estándar de un conjunto de 10 personas.
 
 // Tome por teclado la altura en cm de cada persona y cárguela en un arreglo.
-int[] alturaPersonas = new int[5];
-double[] diferenciasConLaMedia = new double[5];
+int[] alturaPersonas = new int[10];
+double[] diferenciasConLaMedia = new double[10];
 int total = 0;
 double totalDiferenciasConLaMedia = 0;
 double media = 0;
