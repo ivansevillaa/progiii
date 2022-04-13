@@ -1,0 +1,15 @@
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/bin/Debug/net6.0/3.estructura-repetitiva
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/bin/Debug/net6.0/3.estructura-repetitiva.deps.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/bin/Debug/net6.0/3.estructura-repetitiva.runtimeconfig.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/bin/Debug/net6.0/3.estructura-repetitiva.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/bin/Debug/net6.0/3.estructura-repetitiva.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/3.estructura-repetitiva.csproj.AssemblyReference.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/3.estructura-repetitiva.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/3.estructura-repetitiva.AssemblyInfoInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/3.estructura-repetitiva.AssemblyInfo.cs
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/3.estructura-repetitiva.csproj.CoreCompileInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/3.estructura-repetitiva.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/refint/3.estructura-repetitiva.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/3.estructura-repetitiva.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/3.estructura-repetitiva.genruntimeconfig.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/3.estructura-repetitiva/obj/Debug/net6.0/ref/3.estructura-repetitiva.dll

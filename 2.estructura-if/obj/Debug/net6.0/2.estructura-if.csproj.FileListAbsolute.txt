@@ -1,0 +1,15 @@
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/bin/Debug/net6.0/2.estructura-if
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/bin/Debug/net6.0/2.estructura-if.deps.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/bin/Debug/net6.0/2.estructura-if.runtimeconfig.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/bin/Debug/net6.0/2.estructura-if.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/bin/Debug/net6.0/2.estructura-if.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/2.estructura-if.csproj.AssemblyReference.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/2.estructura-if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/2.estructura-if.AssemblyInfoInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/2.estructura-if.AssemblyInfo.cs
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/2.estructura-if.csproj.CoreCompileInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/2.estructura-if.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/refint/2.estructura-if.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/2.estructura-if.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/2.estructura-if.genruntimeconfig.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/2.estructura-if/obj/Debug/net6.0/ref/2.estructura-if.dll
