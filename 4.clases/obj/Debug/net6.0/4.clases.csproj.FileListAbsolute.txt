@@ -1,0 +1,15 @@
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/bin/Debug/net6.0/4.clases
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/bin/Debug/net6.0/4.clases.deps.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/bin/Debug/net6.0/4.clases.runtimeconfig.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/bin/Debug/net6.0/4.clases.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/bin/Debug/net6.0/4.clases.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/4.clases.csproj.AssemblyReference.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/4.clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/4.clases.AssemblyInfoInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/4.clases.AssemblyInfo.cs
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/4.clases.csproj.CoreCompileInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/4.clases.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/refint/4.clases.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/4.clases.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/4.clases.genruntimeconfig.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/4.clases/obj/Debug/net6.0/ref/4.clases.dll
