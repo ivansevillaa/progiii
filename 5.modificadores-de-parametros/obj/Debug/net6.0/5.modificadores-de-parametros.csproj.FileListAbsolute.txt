@@ -1,0 +1,15 @@
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/bin/Debug/net6.0/5.modificadores-de-parametros
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/bin/Debug/net6.0/5.modificadores-de-parametros.deps.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/bin/Debug/net6.0/5.modificadores-de-parametros.runtimeconfig.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/bin/Debug/net6.0/5.modificadores-de-parametros.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/bin/Debug/net6.0/5.modificadores-de-parametros.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/5.modificadores-de-parametros.csproj.AssemblyReference.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/5.modificadores-de-parametros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/5.modificadores-de-parametros.AssemblyInfoInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/5.modificadores-de-parametros.AssemblyInfo.cs
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/5.modificadores-de-parametros.csproj.CoreCompileInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/5.modificadores-de-parametros.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/refint/5.modificadores-de-parametros.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/5.modificadores-de-parametros.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/5.modificadores-de-parametros.genruntimeconfig.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/5.modificadores-de-parametros/obj/Debug/net6.0/ref/5.modificadores-de-parametros.dll
