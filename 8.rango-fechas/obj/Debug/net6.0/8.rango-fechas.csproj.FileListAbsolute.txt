@@ -1,0 +1,15 @@
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/bin/Debug/net6.0/8.rango-fechas
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/bin/Debug/net6.0/8.rango-fechas.deps.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/bin/Debug/net6.0/8.rango-fechas.runtimeconfig.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/bin/Debug/net6.0/8.rango-fechas.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/bin/Debug/net6.0/8.rango-fechas.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/8.rango-fechas.csproj.AssemblyReference.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/8.rango-fechas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/8.rango-fechas.AssemblyInfoInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/8.rango-fechas.AssemblyInfo.cs
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/8.rango-fechas.csproj.CoreCompileInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/8.rango-fechas.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/refint/8.rango-fechas.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/8.rango-fechas.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/8.rango-fechas.genruntimeconfig.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/8.rango-fechas/obj/Debug/net6.0/ref/8.rango-fechas.dll
