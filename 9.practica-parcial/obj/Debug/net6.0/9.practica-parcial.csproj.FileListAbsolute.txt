@@ -1,0 +1,15 @@
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/bin/Debug/net6.0/9.practica-parcial
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/bin/Debug/net6.0/9.practica-parcial.deps.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/bin/Debug/net6.0/9.practica-parcial.runtimeconfig.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/bin/Debug/net6.0/9.practica-parcial.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/bin/Debug/net6.0/9.practica-parcial.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/9.practica-parcial.csproj.AssemblyReference.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/9.practica-parcial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/9.practica-parcial.AssemblyInfoInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/9.practica-parcial.AssemblyInfo.cs
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/9.practica-parcial.csproj.CoreCompileInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/9.practica-parcial.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/refint/9.practica-parcial.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/9.practica-parcial.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/9.practica-parcial.genruntimeconfig.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/9.practica-parcial/obj/Debug/net6.0/ref/9.practica-parcial.dll
