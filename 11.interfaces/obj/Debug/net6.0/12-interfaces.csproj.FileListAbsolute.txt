@@ -1,0 +1,15 @@
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/bin/Debug/net6.0/12-interfaces
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/bin/Debug/net6.0/12-interfaces.deps.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/bin/Debug/net6.0/12-interfaces.runtimeconfig.json
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/bin/Debug/net6.0/12-interfaces.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/bin/Debug/net6.0/12-interfaces.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/12-interfaces.csproj.AssemblyReference.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/12-interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/12-interfaces.AssemblyInfoInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/12-interfaces.AssemblyInfo.cs
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/12-interfaces.csproj.CoreCompileInputs.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/12-interfaces.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/refint/12-interfaces.dll
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/12-interfaces.pdb
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/12-interfaces.genruntimeconfig.cache
+/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/Debug/net6.0/ref/12-interfaces.dll
