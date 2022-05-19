@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/12-interfaces.csproj": {}
+    "/Users/ivan.o.sevilla/learnspace/tup/progiii/11.interfaces/12-interfaces.csproj": {}
   },
   "projects": {
-    "/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/12-interfaces.csproj": {
+    "/Users/ivan.o.sevilla/learnspace/tup/progiii/11.interfaces/12-interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/12-interfaces.csproj",
+        "projectUniqueName": "/Users/ivan.o.sevilla/learnspace/tup/progiii/11.interfaces/12-interfaces.csproj",
         "projectName": "12-interfaces",
-        "projectPath": "/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/12-interfaces.csproj",
+        "projectPath": "/Users/ivan.o.sevilla/learnspace/tup/progiii/11.interfaces/12-interfaces.csproj",
         "packagesPath": "/Users/ivan.o.sevilla/.nuget/packages/",
-        "outputPath": "/Users/ivan.o.sevilla/learnspace/tup/progiii/12-interfaces/obj/",
+        "outputPath": "/Users/ivan.o.sevilla/learnspace/tup/progiii/11.interfaces/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ivan.o.sevilla/.nuget/NuGet/NuGet.Config"
